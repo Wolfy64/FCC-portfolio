@@ -1,0 +1,16 @@
+img{
+  max-width: 300px;
+  max-height: 300px;
+}
+
+#footer{
+  min-height: 100px;
+}
+
+.card, img{
+  box-shadow: 2px 2px 4px 0px #bfadad;
+}
+
+.card-body{
+  min-height: 150px
+}
